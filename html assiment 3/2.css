@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+table {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #f4f4f4;
+}
+
+.lunch {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    font-weight: bold;
+}
+
+.sub1 {
+    color: lightblue; font-weight: bold;
+ }
+.sub2 { 
+    color: orange; font-weight: bold; 
+}
+.sub3 {
+    color: purple; font-weight: bold; 
+}
+.sub4 {
+    color: green;  font-weight: bold; 
+}
+.sub5 { 
+    color: red; font-weight: bold;
+ }
+.swa {
+    color: red; font-weight: bold;
+ }
+.seminar {
+     color: gray; font-weight: bold; 
+    }
+.counsel {
+    color: yellow; font-weight: bold; 
+}
+.lab {
+    color: lightgray; font-weight: bold;
+ }
+.library {
+    color: white; font-weight: bold;
+ }
